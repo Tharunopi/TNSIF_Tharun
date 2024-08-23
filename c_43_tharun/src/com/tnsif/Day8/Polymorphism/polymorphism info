@@ -1,0 +1,6 @@
+if java class allows two methods with same name but different number of arguments.
+
+if the class has more than one constructors then they aare called overloaded constructors. they must differ in 
+		number of parameters
+		type of parameters
+		order of parameters
