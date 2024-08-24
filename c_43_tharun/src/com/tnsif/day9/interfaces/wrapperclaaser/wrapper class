@@ -1,0 +1,10 @@
+wrapper classes provides a way to use primitive data types(int, boolean, etc..) as objects
+since the primitive data types cannot be directly used as objects that's why wrapper classes come into picture
+a class that wraps a primitive data types into an object is called wrapper class in java
+	primitive datatypes										wrapper class
+		char												   character
+		byte												   byte
+		short												   short
+		int 												   integer
+		long												   long
+		float												   float

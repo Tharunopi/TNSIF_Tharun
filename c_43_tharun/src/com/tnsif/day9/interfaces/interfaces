@@ -1,0 +1,25 @@
+class -----------> class
+		extends
+class -----------> interface
+		implements
+interface -------------> interface
+		implements
+____________________________________________________
+		need of interface
+		
+**total abstraction
+**multiple inheritance
+**loose coupling
+
+____________________________________________________
+		features of interface
+	
+**interface provides pure abstraction in java
+**it can contain three types of methods - abstract, default, static methods
+**all the methods declared in the interface are by default abstract and public so there is no need to write abstract or public modifiers before them
+**interfaces cannot have constructors
+**the interface is the only mechanism that allows acheving multiple inheritance in java
+**interfaces can extend an interface and can also extend multiple interfaces 
+**the interface is the only mechanism that allows acheving multiple inheritance in java
+
+____________________________________________________
